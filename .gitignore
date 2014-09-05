@@ -1,3 +1,6 @@
+/.gitignore~
+/.gradle
+/.project
 *.class
 
 # Mobile Tools for Java (J2ME)
