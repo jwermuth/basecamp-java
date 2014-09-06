@@ -1,6 +1,6 @@
 /nohup.out
-/.metadata/.lock
-/.settings/
+/.metadata
+/.settings
 /.classpath
 /build/
 *~
