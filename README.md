@@ -1,3 +1,3 @@
 basecamp-jenkins
 ================
-Example project for jenkins test and team collaboration
+Example project for jenkins test and team collaboration.
