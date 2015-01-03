@@ -13,5 +13,4 @@ public class TestMeTest {
 		
 		Assert.assertEquals(new Integer(3), result);
 	}
-
 }
