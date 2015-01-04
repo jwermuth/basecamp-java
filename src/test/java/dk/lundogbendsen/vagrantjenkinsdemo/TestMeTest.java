@@ -13,4 +13,11 @@ public class TestMeTest {
 		
 		Assert.assertEquals(new Integer(3), result);
 	}
+
+	@Test
+	public void shouldSubtractIntegers() {
+		Integer result = new TestMe().subtract(2,1);
+		
+		Assert.assertEquals(new Integer(1), result);
+	}
 }

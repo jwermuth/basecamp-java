@@ -6,7 +6,7 @@ public class TestMe {
 	}
 
 	public Integer subtract(Integer a, Integer b) {
-		return a - b;
+		return a - b + 1;
 	}
 	
 }
